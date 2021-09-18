@@ -1,3 +1,5 @@
+页面引导：用于系统引导，条步骤
+
 <h1 align="center"><img height="150" src="./demo/images/driver.png" /><br> Driver.js</h1>
 
 <p align="center">
